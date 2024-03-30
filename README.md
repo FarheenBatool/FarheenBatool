@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farheen Batool</h1>
+<h1 align="center">Hi 👋, I'm Farheen</h1>
 <h3 align="center">I'm a Learner</h3>
 
 - 🌱 Currently learning **React and Deep Learning**
